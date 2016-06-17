@@ -2,15 +2,8 @@
 
 Grupo de SD 67 - Campus Tagus
 
-78084 - Miguel João Gil Catarino - miguel.gil.catarino@gmail.com
+O objetivo do projeto de Sistemas Distribuidos é desenvolver um sistema baseado em Web Services, implementados na plataforma Java, para agregação de serviços de transporte de mercadorias à semelhança do que, por exemplo, a Uber efetua para os transportes de passageiros.
 
-77936 - Tiago Costa Santos - tiagoc_santos@hotmail.com
-
-70612 - Francisco Miguel Garcia Dias - francisco.dias1092@gmail.com
-
-
-Repositório:
-[tecnico-distsys/T_67-project](https://github.com/tecnico-distsys/T_67-project/)
 
 -------------------------------------------------------------------------------
 
